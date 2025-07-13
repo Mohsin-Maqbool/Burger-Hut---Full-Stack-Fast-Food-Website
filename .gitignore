@@ -1,0 +1,12 @@
+# Sensitive files
+connect.php
+.env
+
+# Dependencies
+/vendor/
+node_modules/
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
