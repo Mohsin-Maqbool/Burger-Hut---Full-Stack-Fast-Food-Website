@@ -1,7 +1,7 @@
 <?php
 require 'vendor/autoload.php';
 
-\Stripe\Stripe::setApiKey('***REMOVED***51RcPjXGbRTb2vVrHx0clX9z5Gt0IIjsSRuhyKmeY84kW80R6AxUHNbGvQCVF8UtzoMlahdwbQZ5ELqsNJWoOkifC00DtmFicoR'); // Replace with your Stripe secret key
+\Stripe\Stripe::setApiKey('sk_test_your_key_here'); // Replace with your Stripe secret key
 
 session_start();
 

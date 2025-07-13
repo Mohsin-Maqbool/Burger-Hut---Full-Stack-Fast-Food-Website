@@ -2,7 +2,7 @@
 require 'vendor/autoload.php';
 session_start();
 
-\Stripe\Stripe::setApiKey('***REMOVED***51RcPjXGbRTb2vVrHx0clX9z5Gt0IIjsSRuhyKmeY84kW80R6AxUHNbGvQCVF8UtzoMlahdwbQZ5ELqsNJWoOkifC00DtmFicoR');
+\Stripe\Stripe::setApiKey('sk_test_your_key_here');
 
 // 1. Validate inputs
 if (
