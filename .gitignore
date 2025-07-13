@@ -13,4 +13,9 @@ Thumbs.db
 
 
 # stripe
-stripe.php
+stripe.phpbfg.jar
+secrets.txt
+
+
+.env
+
